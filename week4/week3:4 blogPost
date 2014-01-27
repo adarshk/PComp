@@ -1,0 +1,34 @@
+For last 2 weeks I worked on tone output, servo/analog output and motors.
+
+The lab assignments helped to understand the code and the circuit.
+
+Videos below:
+
+
+<iframe src="//player.vimeo.com/video/80801931" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80801931">IMG 0914</a> from <a href="http://vimeo.com/adarshk">Adarsh K</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="//player.vimeo.com/video/80801930" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80801930">IMG 0907</a> from <a href="http://vimeo.com/adarshk">Adarsh K</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<a href="http://www.flickr.com/photos/43212031@N06/11172905683/" title="IMG_0911 by Adarshk09, on Flickr"><img src="http://farm8.staticflickr.com/7390/11172905683_ffd9cf31ce_z.jpg" width="640" height="480" alt="IMG_0911"></a>
+
+
+
+Serial output:
+
+I initially faced problems with getting a proper graph i.e. my graph looked more like a representation of bits 0 or 1 instead of a smooth curve. I realised the problem was with the potentiometer rather than the code which was mapping the values.
+After correcting that I was able to receive the values properly.
+
+<a href="http://www.flickr.com/photos/43212031@N06/11172907523/" title="IMG_0902 by Adarshk09, on Flickr"><img src="http://farm8.staticflickr.com/7411/11172907523_feb6da20ef_z.jpg" width="640" height="480" alt="IMG_0902"></a>
+
+<a href="http://www.flickr.com/photos/43212031@N06/11172761386/" title="Screen Shot 2013-10-02 at 07.38.29 by Adarshk09, on Flickr"><img src="http://farm8.staticflickr.com/7365/11172761386_aa79f4c11c_z.jpg" width="640" height="516" alt="Screen Shot 2013-10-02 at 07.38.29"></a>
+
+<a href="http://www.flickr.com/photos/43212031@N06/11172722355/" title="Screen Shot 2013-10-02 at 07.55.16 by Adarshk09, on Flickr"><img src="http://farm4.staticflickr.com/3737/11172722355_a441829c34_z.jpg" width="640" height="516" alt="Screen Shot 2013-10-02 at 07.55.16"></a>
+
+
+More work done in the class:
+
+<iframe src="//player.vimeo.com/video/80803163" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80803163">IMG 0878</a> from <a href="http://vimeo.com/adarshk">Adarsh K</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="//player.vimeo.com/video/80801932" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80801932">IMG 0917</a> from <a href="http://vimeo.com/adarshk">Adarsh K</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+<iframe src="//player.vimeo.com/video/80801928" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> <p><a href="http://vimeo.com/80801928">IMG 0877</a> from <a href="http://vimeo.com/adarshk">Adarsh K</a> on <a href="https://vimeo.com">Vimeo</a>.</p>

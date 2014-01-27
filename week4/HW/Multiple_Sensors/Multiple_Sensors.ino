@@ -26,17 +26,17 @@ void loop() {
      // read the incoming byte:
     //int inByte =Serial.read();
    // read the sensor:
-  // sensorValue1 =analogRead(A0);
+   sensorValue1 =analogRead(A0);
    // print the results:
-  //Serial.print(sensorValue1, DEC);
-  //Serial.print(",");
+  Serial.print(sensorValue1, DEC);
+  Serial.print(",");
 
    // read the sensor:
-   //sensorValue2 =analogRead(A1);
+   sensorValue2 =analogRead(A1);
    // print the results:
-  //Serial.print(sensorValue2, DEC);
-  //Serial.print(",");
-  
+  Serial.print(sensorValue2, DEC);
+  Serial.println(",");
+  /*
      // read the sensor:
    sensorValue3 =analogRead(A2);
    // print the results:
@@ -65,7 +65,7 @@ void loop() {
    sensorValue7 =analogRead(A5);
    // print the results:
   Serial.println(sensorValue7, DEC);
-   
+   */
   
   /*
   int sensorValue = analogRead(A0);

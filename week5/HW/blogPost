@@ -1,0 +1,13 @@
+Readings:
+
+After reading the summary from the book Sketching User Experiences, I am reminded of Agile development used by companies these days. The idea of iterative development was being used from before but recently it has increasingly gone mainstream. While on a higher level, it can be thought of as an interplay between many different departments, it can also be used in each one of them by itself.
+
+There is clearly importance in sketching out ideas. This process not only allows you to design, it is also a way of communicating what your product does without speaking about it. It helps in identifying problems early on. It will also be an interesting experiment to see how people react and what they understand just by looking at your design without telling them anything about it. As Tom says in his <a href="http://www.tigoe.net/blog/category/physicalcomputing/405/">article</a> about how artists should not interpret their own work, it is also interesting to extend this to the design phase. While that may be hard, it also means that right from the beginning you have put some thought into the process. This approach can lead to incorporating feedback from the beginning of your development and there are no surprises when anything goes wrong. I plan to use at least some of these ideas in my sketches in the future. 
+
+Arduino to processing:
+
+This was the first week I learnt about using a physical sensor to control one my processing sketches. For ICM I worked on a windmill that blows wind to change the movement of the raindrops. I used a potentiometer to control the speed of the windmill. I plan to extend this to control different parameters in the future.
+
+<a href="http://www.flickr.com/photos/43212031@N06/11172853636/" title="Screen Shot 2013-12-02 at 09.25.50 by Adarshk09, on Flickr"><img src="http://farm8.staticflickr.com/7307/11172853636_4182cdebfa_z.jpg" width="619" height="640" alt="Screen Shot 2013-12-02 at 09.25.50"></a>
+
+<a href="http://www.flickr.com/photos/43212031@N06/11173001763/" title="Screen Shot 2013-12-02 at 09.25.56 by Adarshk09, on Flickr"><img src="http://farm8.staticflickr.com/7378/11173001763_109b9149b0_z.jpg" width="619" height="640" alt="Screen Shot 2013-12-02 at 09.25.56"></a>

@@ -1,0 +1,46 @@
+User testing:
+
+This week in user testing helped us to discover a number of potential problems as well as improvements that can be made to make the game more fun. One of the main concerns about the project was about the placement of each of the parts so that the user can easily reach across and touch those parts in very little time. The initial idea was to use a supporting structure that would hold up each of these parts. However we discovered that a single pole of wood wouldnt be able to withstand the force from any player especially while punching. 
+
+Initial idea and changes:
+The initial idea was to just use different fabrics and then let the blindfolded user use the fabrics for matching a piece of the game with the music. But from user feedback we realised that making it blindfolded would only make it more complicated especially when moving in front of a human sized structure. We gave up this idea and instead opted for playing the game without the blindfold. Some important points given during user feedback session:
+
+1. Do not use blindfold
+2. Have a supporting structure that is strong enough to withstand any force while playing the game
+3. Make it easier to understand the game without any explaination with the help of feedback
+4. Use different sensors for each body part instead of using only pressure sensors
+5. Replace the human parts to make it look different.
+
+Based on this feedback, we decided to laser cut each of the body parts and drill these onto a piece of wood. This way we can have independent parts like the finger and ear attached to their respective parts.
+
+We started drawing different designs and testing for the best aesthetic appeal as well as retaining good usability. We spent a lot of time working on the design. Some of the drawings are below:
+
+<a href="http://www.flickr.com/photos/43212031@N06/11342326503/" title="handDrawing by Adarshk09, on Flickr"><img src="http://farm4.staticflickr.com/3729/11342326503_6f6ede348c_z.jpg" width="640" height="480" alt="handDrawing"></a>
+
+<a href="http://www.flickr.com/photos/43212031@N06/11342184445/" title="earDrawing by Adarshk09, on Flickr"><img src="http://farm6.staticflickr.com/5537/11342184445_c814327698_z.jpg" width="480" height="640" alt="earDrawing"></a>
+
+<a href="http://www.flickr.com/photos/43212031@N06/11342184155/" title="tongueDrawing by Adarshk09, on Flickr"><img src="http://farm8.staticflickr.com/7400/11342184155_b7b0934ae1_z.jpg" width="640" height="480" alt="tongueDrawing"></a>
+
+
+We decided to split the tasks between ourseleves:
+I decided to work on testing the sensors and writing the logic for the program. Federico and Eunice translated drawings from the paper to Illustrator.
+
+Body parts and sensors:
+1. The final body parts would be a face that we would like to project on with different expressions.
+2. An ear into the user can blow into. This will have a piezo to detect the sound.
+3. A stomach that the user can punch which uses a pressure sensor
+4. A finger that can be pulled - detected using a stretch sensor
+5. A tongue which can be flicked
+6. A foot pedal that can be stamped on
+
+
+Game design:
+The game would ideally start when a player approaches the structure. Labels will be present under each body part indicating which part represents what. A voice would start saying commands and as the player performs those actions, the voice would express feelings such as "Ahh" or "Ohh" and the face would change to indicate those expressions. The time required to touch each part before the player loses decreases slowly making it harder. There is no end to the game. The player gets a score and the next player tries to beat the highest score. The code for the program to run on the Arduino can be found on github here <> and code to run on processing for running the game can be found <a href="">here.</a>
+
+In order to simulate the game I designed it first running on my laptop using keyboard keys. I then extended this to include the sensors.
+
+<a href="http://www.flickr.com/photos/43212031@N06/11342184335/" title="sensorsPhoto by Adarshk09, on Flickr"><img src="http://farm3.staticflickr.com/2844/11342184335_1c788a5ec6_z.jpg" width="480" height="640" alt="sensorsPhoto"></a>
+
+<iframe src="//player.vimeo.com/video/79880703" width="500" height="281" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+More information can also be found on Federico's blog<a href="http://www.discoverfed.com/?cat=16">here</a> and Eunice's blog <a href="">here.</a>

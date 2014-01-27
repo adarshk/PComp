@@ -1,0 +1,22 @@
+Idea:
+To create a sound based particle system using differnt sensors and 2 speakers.
+
+Description:
+The idea is to create a particle system that is projected onto a table like surface where 2 small speakers are present. By having the particles react to the user and making them flow between the 2 speakers, it appears to the user as if the particles 
+(which carry sound) are flowing between the speakers.
+
+
+My initial idea for midterms was to create an interactive map with live data visualisaton. However it soon progressed onto building a particle system using sound that reacts to a user. The user can control the sound using different sounds such as knobs, pressure sensors etc. By building this framework I thought it would be better to project the particle system onto a surface as it would make it more appealing. However I found that building the framework itself took up a lot of time. Here is a photo of my initial sketch in processing. 
+
+
+<a href="http://www.flickr.com/photos/43212031@N06/11204054606/" title="Screen Shot 2013-11-04 at 14.10.39 by Adarshk09, on Flickr"><img src="http://farm3.staticflickr.com/2805/11204054606_9400838da5_z.jpg" width="623" height="640" alt="Screen Shot 2013-11-04 at 14.10.39"></a>
+
+<a href="http://www.flickr.com/photos/43212031@N06/11204155373/" title="Screen Shot 2013-12-02 at 09.24.36 by Adarshk09, on Flickr"><img src="http://farm4.staticflickr.com/3726/11204155373_0a06730708_z.jpg" width="640" height="404" alt="Screen Shot 2013-12-02 at 09.24.36"></a>
+
+I was using a lot vectors, springs and physics based interactions in the sketch. However later on I decided to change my focus onto using minimal sound along with fixed interactions that are mapped by the sensors attached to the arduino. Also speaking with other people, many expressed interest in the idea of making it like a game. So in order to make it more fun, I added in a few gifs that looked like people jumping out of parachute. The idea was that the user had minions in the form of miniature people whose purpose was to perform actions such as hitting the speaker in the sketch but the sound comes from the real speakers. 
+
+After some work on the sketch, here is the picture. I plan on imprvoving by adding in more elements to the project.
+
+<a href="http://www.flickr.com/photos/43212031@N06/11204047024/" title="Screen Shot 2013-11-04 at 13.54.32 by Adarshk09, on Flickr"><img src="http://farm3.staticflickr.com/2867/11204047024_a48774e14b_z.jpg" width="640" height="387" alt="Screen Shot 2013-11-04 at 13.54.32"></a>
+
+Note the 2 rectangualr blocks are the spots where the speakers will appear.
